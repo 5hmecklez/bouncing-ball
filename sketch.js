@@ -1,6 +1,12 @@
 //SERVER: python -m SimpleHTTPServer 8080
 
+
+
+
+
 let ballRad;
+
+let hellooooo;
 
 class Ball {
 
