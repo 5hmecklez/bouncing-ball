@@ -2,8 +2,6 @@
 
 let ballRad;
 
-let testChange;
-
 class Ball {
 
 	constructor(x, y) {
